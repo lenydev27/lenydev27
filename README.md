@@ -25,7 +25,7 @@ const leny = {
   role       : "FullStack Developer",
   passions   : ["building", "learning", "shipping"],
   motto      : "From the void to production 🌌",
-  contact    : "Discord → lenydev27",
+  contact    : "Discord → walter_27",
   openTo     : ["collabs", "open source", "side projects"],
 };
 ```
