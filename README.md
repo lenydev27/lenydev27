@@ -47,6 +47,11 @@
 ## 📊 
 
 <br/>
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D0115&ring=7c3aed&fire=e879f9&currStreakLabel=c084fc&sideLabels=9333ea&dates=818cf8&stroke=7c3aed)](https://git.io/streak-stats)
+
+</div>
 
 <div align="center">
 
@@ -56,11 +61,20 @@
 
 <br/>
 
+<br/>
 
 ## 🏆 
 
 <div align="center">
 
 [![Trophées](https://github-profile-trophy.vercel.app/?username=lenydev27&theme=onestar&no-frame=true&row=1&column=7&margin-w=8&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+## 📡
+
+<div align="center">
+  
+[![Discord](https://img.shields.io/badge/Discord-1a0a2e?style=for-the-badge&logo=discord&logoColor=9333ea)](https://discord.com/users/1039475482460164146)
 
 </div>
