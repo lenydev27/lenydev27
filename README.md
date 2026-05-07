@@ -71,6 +71,7 @@ const leny = {
 ![Git](https://img.shields.io/badge/Git-1a0a2e?style=for-the-badge&logo=git&logoColor=c084fc)
 ![GitHub](https://img.shields.io/badge/GitHub-0a0515?style=for-the-badge&logo=github&logoColor=818cf8)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0a0515?style=for-the-badge&logo=githubactions&logoColor=9333ea)
+![PhpMyAdmin](https://img.shields.io/badge/PhpMyAdmin-1a0a2e?style=for-the-badge&logo=phpmyadmin&logoColor=06b6d4)
 
 </details>
 
