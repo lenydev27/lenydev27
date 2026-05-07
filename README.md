@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Leny+%F0%9F%91%8B;FullStack+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Building+things+from+the+void+%F0%9F%8C%8C;Always+learning%2C+always+shipping+%F0%9F%9A%80;Frontend+%E2%9C%A8+%7C+Backend+%F0%9F%94%A7+%7C+DevOps+%F0%9F%90%B3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Leny+%F0%9F%91%8B;FullStack+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Building+things+from+the+void+%F0%9F%8C%8C;Always+learning+%F0%9F%9A%80;Frontend+%E2%9C%A8+%7C+Backend+%F0%9F%94%A7+%7C+DevOps+%F0%9F%90%B3)](https://git.io/typing-svg)
 
 <br/>
 
